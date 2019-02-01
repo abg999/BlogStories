@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "55320938961",
+    "firebase_url": "https://blogstories-d162d.firebaseio.com",
+    "project_id": "blogstories-d162d",
+    "storage_bucket": "blogstories-d162d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55320938961:android:0a4bd2c083fde858",
+        "android_client_info": {
+          "package_name": "com.lorem.blogstories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55320938961-k8r289qlp4ep0p2vm7umd95jspertvg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lorem.blogstories",
+            "certificate_hash": "455890151af8da37d7fc8e38a51c9a250e293534"
+          }
+        },
+        {
+          "client_id": "55320938961-uulkplohuu4da8mqe88tucgqvu71lgv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkyqlRblpfcLa6RODR9sJYUQWAjyMoVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55320938961-uulkplohuu4da8mqe88tucgqvu71lgv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
